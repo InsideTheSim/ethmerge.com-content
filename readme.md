@@ -3,6 +3,8 @@
 This repo contains [Markdown](https://guides.github.com/features/mastering-markdown/) files that are fetched during the build process for
 [ethmerge.com](https://ethmerge.com). Contributions are welcome in the form of Pull Requests. ❤️
 
+I would **love** to see various authoritative voices in our community provide content for this project. My time (InsideTheSim) is best spent working on UI / UX challenges as the content accrues. Any help spreading the word about this project is greatly appreciated!
+
 # Contributing
 ## Introduction
 The introduction copy lives in the `/introduction.md` file at the root of the repo.
@@ -34,4 +36,4 @@ Anonymous authorship is acceptable - but given you'll need a GitHub account to c
 Questions can have multiple author attributions - and they'll be shown in order of contrubution - not sorted by magnitute except in cases of extreme outliers. So, **just because a question has an answer please don't feel like you can't submit improvements to it!**
 
 ## Notice
-Not all contributions are guaranteed to be merged - but all contribution are appreciated. 
+Not all contributions are guaranteed to be merged - but all contribution are appreciated.
