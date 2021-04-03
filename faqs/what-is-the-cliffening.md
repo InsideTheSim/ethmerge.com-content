@@ -2,8 +2,9 @@
 title: What is "The Cliffening"?
 weight: 7.0
 attribution:
-  name: "u/Bob-Rossi"
-  link: https://www.reddit.com/user/Bob-Rossi
+  -
+    name: "u/Bob-Rossi"
+    link: https://www.reddit.com/user/Bob-Rossi
 ---
 
 The Cliffening is the community name given to the large drop in ETH issuance that will occur once Ethereum upgrades to Proof of Stake (PoS). “The Cliffening” is a play on the phrase “The Halvening”. While BTC halves its issuance rate every 4 years, ETH is due to see its issuance rate get cut down by roughly 90% at the time of the merge – that's equivalent to 3 BTC halvenings happening at once. ETH will do in an instant what will take BTC 12 years to achieve.

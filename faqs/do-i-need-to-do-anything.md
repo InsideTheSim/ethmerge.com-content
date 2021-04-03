@@ -2,8 +2,9 @@
 title: If I own ETH do I need to do anything?
 weight: 3.0
 attribution:
-  name: "@insideTheSim"
-  link: https://twitter.com/InsideTheSim
+  -
+    name: "@insideTheSim"
+    link: https://twitter.com/InsideTheSim
 ---
 
 No! All ETH on the Ethereum 1.0 chain will automatically become ETH on the

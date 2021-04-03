@@ -2,8 +2,9 @@
 title: How can I try out the Ethereum 2.0 chain?
 weight: 9.1
 attribution:
-  name: TwoOfSpades
-  link: https://www.reddit.com/user/TwoOfSpades/
+  -
+    name: TwoOfSpades
+    link: https://www.reddit.com/user/TwoOfSpades/
 ---
 
 See [Rayonism](https://rayonism.io/) for in depth details on how to contribute.

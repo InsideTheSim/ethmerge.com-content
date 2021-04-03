@@ -2,8 +2,9 @@
 title: When is the merge happening?
 weight: 1.1
 attribution:
-  name: /u/Chapo_Rouge
-  link: https://reddit.com/u/Chapo_Rouge
+  -
+    name: /u/Chapo_Rouge
+    link: https://reddit.com/u/Chapo_Rouge
 ---
 
 As of time of writing there's no definitive date for the merge.

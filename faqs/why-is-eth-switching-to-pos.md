@@ -2,8 +2,9 @@
 title: Why is ETH switching to Proof of Stake (Pos)?
 weight: 2.0
 attribution:
-  name: /u/Chapo_Rouge
-  link: https://reddit.com/u/chapo_rouge
+  -
+    name: /u/Chapo_Rouge
+    link: https://reddit.com/u/chapo_rouge
 ---
 
 Ethereum in its current state is using [Proof of Work (PoW)](https://www.youtube.com/watch?v=3EUAcxhuoU4) to ensure consensus amongst the thousands of nodes of the network, while reliable and secure, this method is also very energy intensive since each block to be included on the blockchain needs to be computed by the nodes using a GPU to solve a complex mathematical problem.
