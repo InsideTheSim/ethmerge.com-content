@@ -2,7 +2,7 @@
 headline: <h1>Ethereum is about to become the most <span class="accent">powerful</span>, most <span class="accent">used</span>, most <span class="accent">credibly-neutral</span>, and most <span class="accent accent-green">energy-efficient</span> blockchain network in existence.</h1>
 ---
 
-**Seeking write-up from community. 3-paragraphs or less summarizing the beacon chain and the impending switch to Proof of Stake.**
+**Seeking write-up from community. 3-paragraphs or less summarizing the beacon chain and the impending switch to Proof of Stake. You can contribute by opening a Pull Request at the [open source content repo](https://github.com/InsideTheSim/ethmerge.com-content) ❤️**
 
 Interdum purus cum dictumst turpis primis varius elit nibh himenaeos fringilla porttitor curabitur laoreet egestas, nascetur penatibus eros lorem senectus sociis eget parturient curae vitae venenatis elementum nullam. Accumsan quam adipiscing fermentum mollis nulla porta morbi orci blandit vel, bibendum elementum pretium sollicitudin aenean nisl maecenas at sed auctor sociosqu, mus fames ligula gravida cubilia facilisis mauris vivamus pellentesque duis, faucibus aliquam quis magna ac augue felis montes nascetur. Dignissim nibh porttitor sed rhoncus himenaeos ligula tristique montes hac semper, massa vitae amet dapibus posuere diam litora pretium. Egestas turpis habitant praesent massa ornare est aenean pulvinar taciti faucibus dictumst, mauris ligula nulla porta fermentum congue neque rutrum inceptos ultricies duis litora, scelerisque dis suscipit phasellus eleifend feugiat accumsan magna vivamus laoreet. Curabitur sed cubilia mattis porta fermentum natoque neque gravida, commodo aliquet viverra tristique at primis cum, eu vitae ullamcorper sem auctor diam sagittis.
 
