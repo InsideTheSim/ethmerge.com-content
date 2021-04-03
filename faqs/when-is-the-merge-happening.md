@@ -8,7 +8,7 @@ attribution:
 
 As of time of writing there's no definitive date for the merge.
 
-The Ethereum (1.x / PoW) chain will undergo at least 2 hard forks named [Berlin and London](https://hackmd.io/@timbeiko/acd-update-001) before any subtantial move towards PoS
+The Ethereum (1.x / PoW) chain will undergo at least 2 hard forks named [Berlin and London](https://hackmd.io/@timbeiko/acd-update-001) before any subtantial move towards PoS.
 
 The Ethereum (2.0 / PoS) chain will undergo its first hard fork (Codenamed Altair) in June 2021.
 
