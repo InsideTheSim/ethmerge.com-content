@@ -1,6 +1,6 @@
 ---
 title: Why is ETH switching to Proof of Stake (Pos)?
-weight: 2.1
+weight: 2.0
 attribution:
   name: /u/Chapo_Rouge
   link: https://reddit.com/u/chapo_rouge
