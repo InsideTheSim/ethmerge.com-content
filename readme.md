@@ -7,7 +7,7 @@ I would **love** to see various authoritative voices in our community provide co
 
 # Contributing
 ## Introduction
-The introduction copy lives in the `/introduction.md` file at the root of the repo.
+The introduction copy lives in the `/introduction.md` file at the root of the repo and is actiavely being worked on on the [`feature/intro`](https://github.com/InsideTheSim/ethmerge.com-content/tree/feature/intro) branch. See [this issue](https://github.com/InsideTheSim/ethmerge.com-content/issues/27) for discussion around drafting content for the Introduction.
 
 ## FAQs
 ### Existing FAQs
