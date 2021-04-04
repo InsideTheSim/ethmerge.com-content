@@ -33,7 +33,7 @@ Please try to keep similar topic FAQs logically grouped together.
 ## Authorship
 Anonymous authorship is acceptable - but given you'll need a GitHub account to contribute anyways please consider at least listing that if you're not comfortable linking your answer to a public internet profile such as Twitter or Reddit.
 
-Questions can have multiple author attributions - and they'll be shown in order of contrubution - not sorted by magnitute except in cases of extreme outliers. So, **just because a question has an answer please don't feel like you can't submit improvements to it!**
+Questions can have multiple author attributions - and they'll be shown in order of contribution - not sorted by magnitude except in cases of extreme outliers. So, **just because a question has an answer please don't feel like you can't submit improvements to it!**
 
 ## Notice
-Not all contributions are guaranteed to be merged - but all contribution are appreciated.
+Not all contributions are guaranteed to be merged - but all contributions are appreciated.
