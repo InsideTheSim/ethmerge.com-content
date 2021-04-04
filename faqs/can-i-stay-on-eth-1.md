@@ -1,5 +1,5 @@
 ---
-title: Can I stay on Ethereum 1.0 after "The Merge"?
+title: Can I stay on "Ethereum 1.0" after "The Merge"?
 weight: 3.1
 attribution:
   -
