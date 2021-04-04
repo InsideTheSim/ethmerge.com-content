@@ -13,4 +13,4 @@ Ethereum in its current state is using [Proof of Work (PoW)](https://www.youtube
 
 This new method doesn't require a energy-intensive process like PoW, any relatively recent computer staking 32 ETH could run the software.
 
-The energy saved by switching the consensus mechanism from PoW to PoS is estimated to be around 99%+ [source1](https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent) [source2](https://twitter.com/sigp_io/status/1374979655782989824)
+Energy saved by switching the consensus mechanism from PoW to PoS is estimated to be around 99%+ [source1](https://spectrum.ieee.org/computing/networks/ethereum-plans-to-cut-its-absurd-energy-consumption-by-99-percent) [source2](https://twitter.com/sigp_io/status/1374979655782989824)
