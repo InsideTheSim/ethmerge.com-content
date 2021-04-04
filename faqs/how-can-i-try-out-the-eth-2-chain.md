@@ -1,5 +1,5 @@
 ---
-title: How can I try out the Ethereum 2.0 chain?
+title: How can I try out the ETH 2.0 chain?
 weight: 9.1
 attribution:
   -
