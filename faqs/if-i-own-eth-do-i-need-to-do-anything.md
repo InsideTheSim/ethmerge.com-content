@@ -1,5 +1,5 @@
 ---
-title: If I own ETH do I need to do anything?
+title: If I own any Ether (ETH) do I need to do anything?
 weight: 3.0
 attribution:
   -

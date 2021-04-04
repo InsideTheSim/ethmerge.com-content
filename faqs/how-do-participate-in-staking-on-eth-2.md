@@ -1,5 +1,5 @@
 ---
-title: How do I participate in proof-of-stake (PoS) on ETH 2.0?
+title: How do I participate in proof-of-stake (PoS) on Ethereum?
 weight: 5.0
 attribution:
   -

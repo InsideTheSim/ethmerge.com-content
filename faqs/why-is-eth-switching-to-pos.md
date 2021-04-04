@@ -1,5 +1,5 @@
 ---
-title: Why is ETH switching to Proof of Stake (Pos)?
+title: Why is Ethereum (ETH) switching to Proof of Stake (Pos)?
 weight: 2.0
 attribution:
   -
