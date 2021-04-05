@@ -1,5 +1,5 @@
 ---
-title: How can I try out proof-of-stake (PoS) Ethereum?
+title: How can I test proof-of-stake (PoS) Ethereum?
 weight: 9.1
 attribution:
   -
