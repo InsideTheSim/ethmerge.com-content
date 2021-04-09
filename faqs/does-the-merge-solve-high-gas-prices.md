@@ -1,6 +1,6 @@
 ---
 title: Does "The Merge" solve high gas prices (network fees)?
-weight: 8.0
+weight: 6.1
 attribution:
   -
     name: Lamboshi

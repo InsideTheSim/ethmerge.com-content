@@ -1,6 +1,6 @@
 ---
 title: If I own any Ether (ETH) do I need to do anything?
-weight: 3.0
+weight: 2.0
 attribution:
   -
     name: "@insideTheSim"

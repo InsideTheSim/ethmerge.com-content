@@ -1,6 +1,6 @@
 ---
 title: Can I stay on "Ethereum 1.0" after "The Merge"?
-weight: 3.1
+weight: 3
 attribution:
   -
     name: "@InsideTheSimulation"
