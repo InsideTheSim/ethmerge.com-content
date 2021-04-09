@@ -7,6 +7,8 @@ attribution:
     link: https://twitter.com/yulesa
 ---
 
+No, PoS can be much more secure/decentralized than PoW.
+
 In PoW, if miners act maliciously, they lose the block reward and the operational cost of running the rigs like electricity bills and capital cost. The blockchain is safer the more the malicious player has to lose. That way rig operational cost and the block reward has to be higher as possible in order to the network to be safer. That’s the reason PoW is so wasteful in electricity resources. Also, the network security is drastically reduced if the block rewards is suddenly decreased.
 
 PoS operational cost is very low. Instead, if you act maliciously, aside of losing the rewards (a positive reinforcement), your stake is also burned (a negative reinforcement).
