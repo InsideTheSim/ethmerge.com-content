@@ -10,7 +10,7 @@ attribution:
     link: https://twitter.com/InsideTheSim
 ---
 **Short Answer:**<br>
-The best current (non-official) estimate is sometime in Q2 2022.
+The best current (non-official) estimate is sometime in Q3 2022.
 
 **Long Answer:**<br>
 At the time of writing there is no definitive date for "The Merge".
