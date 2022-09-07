@@ -20,4 +20,4 @@ The TTD (Terminal Total Difficulty) was agree'd in the <a href="https://www.yout
 
 The Ethereum PoS chain is currently running and will undergo its mainnet-ready hardfork, codenamed Bellatrix, on September 6th at epoch 144896.
 
-For more info about development progress go here https://github.com/ethereum/pm/blob/master/Merge/mainnet-readiness.md
+For more info about development progress go [here](https://github.com/ethereum/pm/blob/master/Merge/mainnet-readiness.md).
